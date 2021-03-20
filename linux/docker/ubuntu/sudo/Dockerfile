@@ -1,4 +1,4 @@
-# Inspired by https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/Dockerfile
+# Inspired by https://github.com/ryuheechul/dotfiles-launchpad/blob/3557c371d45445acac41134bd86154561a8e1fc9/Dockerfile
 FROM ubuntu:20.04
 
 RUN apt update && apt install -y sudo
